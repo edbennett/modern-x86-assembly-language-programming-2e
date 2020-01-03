@@ -1,13 +1,6 @@
-# Errata for *Book Title*
+# Errata for *Modern X86 Assembly Language Programming*
 
-On **page xx** [Summary of error]:
+On **pages 15 and 16** the instruction **`cupid`** should instead be **`cpuid`**:
  
-Details of error here. Highlight key pieces in **bold**.
-
 ***
 
-On **page xx** [Summary of error]:
- 
-Details of error here. Highlight key pieces in **bold**.
-
-***
